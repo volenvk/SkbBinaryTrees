@@ -1,0 +1,10 @@
+C:\skb\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe.config
+C:\skb\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe
+C:\skb\BinaryTrees.csproj\bin\Debug\BinaryTrees.pdb
+C:\skb\BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\skb\BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\skb\BinaryTrees.csproj\obj\Debug\BinaryTrees.csprojAssemblyReference.cache
+C:\skb\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\skb\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CopyComplete
+C:\skb\BinaryTrees.csproj\obj\Debug\BinaryTrees.exe
+C:\skb\BinaryTrees.csproj\obj\Debug\BinaryTrees.pdb
